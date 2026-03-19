@@ -13,3 +13,7 @@
 3. Lägg i airfryer
 4. Tillaga i 200°C i 12-15 minuter
 5. Vänd köttet efter halva tiden
+
+## Servering
+Servera med grönsaker, potatis eller ris.
+Låt köttet vila i några minuter före servering.
