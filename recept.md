@@ -1,7 +1,15 @@
 # Marinerad fläskkarré i airfryer
+
 ## Ingredienser
 - 1 kg fläskkarré
 - 1 lök
 - 2 msk olja
 - salt
 - peppar
+
+## Tillagning
+1. Skär köttet i bitar
+2. Krydda med salt och peppar
+3. Lägg i airfryer
+4. Tillaga i 180°C i 20 minuter
+5. Vänd köttet efter halva tiden
