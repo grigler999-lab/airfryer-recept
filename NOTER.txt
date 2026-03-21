@@ -1,0 +1,27 @@
+I denna del använde jag git revert för att ångra en tidigare förändring i projektets historik.
+
+Först försökte jag ångra committen "docs: improve serving instructions" med kommandot:
+
+git revert 7d9c413
+
+Detta ledde till en konflikt i filen recept.md, eftersom filen hade ändrats senare i historiken och Git inte kunde ångra committen automatiskt.
+
+Efter det avbröt jag försöket med:
+
+git revert --abort
+
+Sedan valde jag en annan commit som var lättare att ångra:
+
+git revert 1792459
+
+Den committen var:
+feat: add garlic variant
+
+Jag valde git revert istället för git reset eftersom revert är säkrare och inte skriver om historiken. Git revert skapar en ny commit som ångrar en tidigare förändring, medan git reset ändrar historiken och kan vara riskabelt om projektet redan är pushat eller delas med andra.
+
+Efter revert skapades en ny commit:
+Revert "feat: add garlic variant"
+
+Det betyder att den ursprungliga committen finns kvar i historiken, men att dess effekt har tagits bort genom en ny commit.
+
+Jag valde denna lösning eftersom den gör historiken tydlig, spårbar och säker.
