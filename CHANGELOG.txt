@@ -1,0 +1,50 @@
+CHANGELOG
+
+Version: v1.0.0
+Datum: 2026-03-21
+
+Added:
+- feat: add recipe title
+- feat: add ingredient list
+- feat: add cooking steps
+
+Changed:
+- Receptet gick från en tom fil till en komplett grundversion.
+
+Fixed:
+- Inga buggar fixades i denna version.
+
+Motivering:
+- Version 1.0.0 valdes eftersom detta var den första kompletta versionen av receptet med titel, ingredienser och tillagningssteg.
+
+
+Version: v1.0.1
+Datum: 2026-03-21
+
+Added:
+- Inga nya funktioner lades till.
+
+Changed:
+- Tillagningsinstruktionerna förbättrades.
+
+Fixed:
+- fix: correct cooking time and temperature
+
+Motivering:
+- Version 1.0.1 valdes eftersom det endast handlar om en mindre korrigering (patch) av befintligt innehåll.
+
+
+Version: v1.1.0
+Datum: 2026-03-21
+
+Added:
+- feat: add garlic variant
+
+Changed:
+- Receptet utökades med en ny variant med vitlök.
+
+Fixed:
+- Inga buggar fixades i denna version.
+
+Motivering:
+- Version 1.1.0 valdes eftersom en ny funktion (variant av receptet) lades till utan att ändra den grundläggande strukturen.
