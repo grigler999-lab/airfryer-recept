@@ -17,6 +17,3 @@
 ## Servering
 Servera med grönsaker, potatis eller ris.
 Låt köttet vila i några minuter före servering.
-
-## Variant med vitlök
-För en starkare smak kan du lägga till 2 pressade vitlöksklyftor i marinaden.
