@@ -17,3 +17,6 @@
 ## Servering
 Servera med grönsaker, potatis eller ris.
 Låt köttet vila i några minuter före servering.
+
+## Tips
+Servera med sallad eller ris för bättre balans.

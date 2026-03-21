@@ -1,0 +1,23 @@
+From 8d3af65bf356ee081eb6927e9efd266e031265ed Mon Sep 17 00:00:00 2001
+From: Hlib Hrynchenko <grigler999@gmail.com>
+Date: Sat, 21 Mar 2026 17:31:48 +0100
+Subject: [PATCH] feat: add serving tips
+
+---
+ recept.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/recept.md b/recept.md
+index 2c4ee27..a0d5634 100644
+--- a/recept.md
++++ b/recept.md
+@@ -17,3 +17,6 @@
+ ## Servering
+ Servera med grönsaker, potatis eller ris.
+ Låt köttet vila i några minuter före servering.
++
++## Tips
++Servera med sallad eller ris för bättre balans.
+-- 
+2.43.0
+
